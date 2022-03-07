@@ -39,7 +39,7 @@
 
 [`leetcode`](https://leetcode.com/Dom-Adam/)
 [`stackoverflow`](https://stackoverflow.com/users/15560679/dom-adam)
-[`codesandbox`](https://codesandbox.io/dashboard/home?workspace=15896ddd-99c9-4137-b16a-e9e5156127af)
+[`codesandbox`](https://codesandbox.io/u/Dom-Adam)
 
 <!---
 Dom-Adam/Dom-Adam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
