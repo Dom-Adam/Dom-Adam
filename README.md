@@ -1,5 +1,5 @@
 # Domenico Adams
-👋 Hi, I'm a self-taught full-stack developer looking for his first job.
+👋 Hi, I'm a self-taught programmer who enjoys working with Flutter and Rust.
 ***
 ### My Tech Stack
 
@@ -10,6 +10,8 @@
 - Python
 - Dart
 - GraphQL
+- Go
+- Rust
 
 #### Frameworks and Libraries
 - Flutter
